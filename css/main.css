@@ -58,6 +58,8 @@ h2 {
 .contact, .experience {
   padding: 40px;
   min-height: 330px;
+  border: hidden;
+  border-radius: 25px;
 }
 
 .education, .languages,
@@ -137,13 +139,13 @@ h2 {
 /* header section */
 header img {
   display: inline-block !important;
-  animation: fadeIn 3s forwards ease-in;
-  animation-delay: 580ms;
+  animation: fadeIn 2s forwards ease-in;
+  animation-delay: 580ms !important;
 }
 
 .title span{
-  animation: fadeIn 3s forwards ease-in;
-  animation-delay: 580ms;
+  animation: fadeIn 2s forwards ease-in;
+  animation-delay: 580ms !important;
 }
 
 

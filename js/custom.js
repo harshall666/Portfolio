@@ -1,9 +1,6 @@
-// templatemo 467 easy profile
-
 // PRELOADER
-
 $(window).load(function(){
-    $('.preloader').delay(1000).fadeOut("slow"); // set duration in brackets    
+    $('.preloader').delay(500).fadeOut("slow"); // set duration in brackets    
 });
 
 // HOME BACKGROUND SLIDESHOW
